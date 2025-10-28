@@ -24,6 +24,7 @@
   </h2></i>
 	<a href="https://www.linkedin.com/in/lucas-menezes-883a3528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Instagram-80134d?style=for-the-badge&logo=instagram&logoColor=white"/>
+	<a/>
+  	<img src="https://img.shields.io/badge/Instagram-80134d?style=for-the-badge&logo=instagram&logoColor=white"/>
 </div>
 
