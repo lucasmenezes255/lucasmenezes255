@@ -35,8 +35,8 @@
 > ***Arquitetando o equilíbrio entre o código e a existência: onde a lógica da Mente<br> se encontra com a força do Corpo e a clareza do Espírito***
 
 <br>
-<h1><b>Minhas Skills & Redes Sociais</b></h1>
 <div align="center">
+<h1><b>Minhas Skills & Redes Sociais</b></h1>
     <a href="https://skillicons.dev">
         <img alt="Minhas Tecnologias" src="https://skillicons.dev/icons?i=pycharm,github,vscode,html,css,git,mysql,linux,py">
     </a>
