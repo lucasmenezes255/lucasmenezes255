@@ -57,7 +57,7 @@
 
 <hr>
 <div align="center">
-    <img alt="Status Github" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmenezes255&theme=react">
+    <img alt="Status Github" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmenezes255&theme=react"><br>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasmenezes255&theme=react">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasmenezes255&theme=react">
 </div>
