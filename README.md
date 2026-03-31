@@ -8,7 +8,7 @@
 
 <div align="center">
 	
-**🇧🇷 Recife, Pernambuco**
+**🇧🇷 Igarassu, Pernambuco**
 	
 </div>
 
