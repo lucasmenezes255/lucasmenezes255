@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=00A3FF"/>
 
 <div align="center">
-	<img width=20% src="https://imgur.com/WfuJCRE.png"/>
+	<img width="26%" src="https://imgur.com/jKCZB5Q.png"/>
 
 **`プ ロ グ ラ マ`**
 </div>
